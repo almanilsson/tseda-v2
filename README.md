@@ -11,4 +11,4 @@ $pageLabel = 'Home';
 ?>
 ```
 
-This is used to dynamically generate navigation labels. If $pageLabel is not set, a default label is created based on the file name (underscores replaced with spaces, first letter capitalised).
+This is used to dynamically generate navigation labels. If `$pageLabel` is not set, a default label is created based on the file name (underscores replaced with spaces, first letter capitalised).
