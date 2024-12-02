@@ -1,5 +1,5 @@
 <?php
 $pageLabel = 'Home';
 ?>
-<h1>Welcome to the tsEDA Homepage</h1>
-<p>This is the main content of the homepage.</p>
+<h1>tsEDA</h1>
+<p>Welcome to tseda! This is a tool that you can use to analyze your data bla bla come up with something good...</p>
